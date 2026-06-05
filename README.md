@@ -6,6 +6,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-%40ctrhitbot-blue?logo=telegram)](https://t.me/ctrhitbot)
 [![Website](https://img.shields.io/badge/Web-adsclicker.ctrhitbot.com-green?logo=google-chrome)](https://adsclicker.ctrhitbot.com)
+[![ToS](https://img.shields.io/badge/Kullan%C4%B1m%20Ko%C5%9Fullar%C4%B1-adsclicker.ctrhitbot.com-orange?logo=bookstack)](https://adsclicker.ctrhitbot.com/tos.html)
 
 </div>
 
@@ -84,6 +85,9 @@ Lisans almak, demo görmek veya daha fazla bilgi için:
 ### 🌐 Web Sitesi
 **[adsclicker.ctrhitbot.com](https://adsclicker.ctrhitbot.com)**
 
+### 📄 Kullanım Koşulları
+**[adsclicker.ctrhitbot.com/tos.html](https://adsclicker.ctrhitbot.com/tos.html)**
+
 </div>
 
 ---
@@ -110,6 +114,7 @@ Powered by real browser TLS fingerprints, residential proxy rotation, cookie-bas
 |---|---|
 | 💬 Telegram | [@ctrhitbot](https://t.me/ctrhitbot) |
 | 🌐 Website | [adsclicker.ctrhitbot.com](https://adsclicker.ctrhitbot.com) |
+| 📄 Terms of Service | [adsclicker.ctrhitbot.com/tos.html](https://adsclicker.ctrhitbot.com/tos.html) |
 
 ---
 
@@ -121,6 +126,6 @@ Powered by real browser TLS fingerprints, residential proxy rotation, cookie-bas
 
 <div align="center">
 
-*© 2026 Ads Clicker · [adsclicker.ctrhitbot.com](https://adsclicker.ctrhitbot.com) · [@ctrhitbot](https://t.me/ctrhitbot)*
+*© 2026 Ads Clicker · [adsclicker.ctrhitbot.com](https://adsclicker.ctrhitbot.com) · [@ctrhitbot](https://t.me/ctrhitbot) · [Terms of Service](https://adsclicker.ctrhitbot.com/tos.html)*
 
 </div>
