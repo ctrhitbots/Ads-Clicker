@@ -2,6 +2,10 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=CTR%20HIT%20BOT&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Real%20Browser%20%C2%B7%20Real%20Signals%20%C2%B7%20Real%20Rankings&descAlignY=60&descSize=18" width="100%"/>
+
+<br/>
+
 **🚀 Google Ads tıklamalarını otomatize et. Sıralamalarını yükselt. Reklamlarını öne çıkar.**
 
 [![Telegram](https://img.shields.io/badge/Telegram-%40ctrhitbot-blue?logo=telegram)](https://t.me/ctrhitbot)
